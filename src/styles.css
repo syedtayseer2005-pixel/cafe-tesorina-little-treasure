@@ -161,7 +161,7 @@
 
 @utility door-frame {
   background:
-    linear-gradient(180deg, color-mix(in oklab, var(--terracotta) 14%, transparent), color-mix(in oklab, var(--terracotta) 18%, transparent) 45%, color-mix(in oklab, var(--terracotta) 14%, transparent));
+    linear-gradient(180deg, color-mix(in oklab, var(--terracotta) 24%, transparent), color-mix(in oklab, var(--terracotta) 30%, transparent) 45%, color-mix(in oklab, var(--terracotta) 24%, transparent));
 }
 
 @utility tile-bg {
